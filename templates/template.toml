@@ -1,0 +1,54 @@
+# tuicr local theme. bloom derives Moon and Dawn from the palette variables.
+# search match background is derived by tuicr from panel_bg and pending.
+# diff and syntax backgrounds are foam and love blended onto each variant base.
+selection_marker = "$rose"
+panel_bg = "$base"
+bg_highlight = "$highlightMed"
+fg_primary = "$text"
+fg_secondary = "$subtle"
+fg_dim = "$muted"
+
+diff_add = "$foam"
+diff_add_bg = "$(#313844|#394053|#dce3df)"
+diff_del = "$love"
+diff_del_bg = "$(#3f2738|#472f47|#eddad8)"
+diff_context = "$text"
+diff_hunk_header = "$iris"
+expanded_context_fg = "$muted"
+
+syntax_add_bg = "$(#292d3a|#323649|#e6e8e4)"
+syntax_del_bg = "$(#322231|#3b2a41|#f2e3df)"
+syntax_theme = "$id.tmTheme"
+
+file_added = "$foam"
+file_modified = "$rose"
+file_deleted = "$love"
+file_renamed = "$iris"
+
+reviewed = "$foam"
+pending = "$gold"
+
+comment_note = "$foam"
+comment_suggestion = "$iris"
+comment_issue = "$love"
+comment_praise = "$pine"
+
+border_focused = "$rose"
+border_unfocused = "$highlightHigh"
+status_bar_bg = "$surface"
+cursor_color = "$gold"
+cursor_line_bg = "$highlightLow"
+branch_name = "$iris"
+help_indicator = "$subtle"
+
+message_info_fg = "$base"
+message_info_bg = "$foam"
+message_warning_fg = "$($base|$base|$text)"
+message_warning_bg = "$gold"
+message_error_fg = "$base"
+message_error_bg = "$love"
+update_badge_fg = "$($base|$base|$text)"
+update_badge_bg = "$gold"
+
+mode_fg = "$base"
+mode_bg = "$rose"

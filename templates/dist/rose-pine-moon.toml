@@ -1,0 +1,54 @@
+# tuicr local theme. bloom derives Moon and Dawn from the palette variables.
+# search match background is derived by tuicr from panel_bg and pending.
+# diff and syntax backgrounds are foam and love blended onto each variant base.
+selection_marker = "#ea9a97"
+panel_bg = "#232136"
+bg_highlight = "#44415a"
+fg_primary = "#e0def4"
+fg_secondary = "#908caa"
+fg_dim = "#6e6a86"
+
+diff_add = "#9ccfd8"
+diff_add_bg = "#394053"
+diff_del = "#eb6f92"
+diff_del_bg = "#472f47"
+diff_context = "#e0def4"
+diff_hunk_header = "#c4a7e7"
+expanded_context_fg = "#6e6a86"
+
+syntax_add_bg = "#323649"
+syntax_del_bg = "#3b2a41"
+syntax_theme = "rose-pine-moon.tmTheme"
+
+file_added = "#9ccfd8"
+file_modified = "#ea9a97"
+file_deleted = "#eb6f92"
+file_renamed = "#c4a7e7"
+
+reviewed = "#9ccfd8"
+pending = "#f6c177"
+
+comment_note = "#9ccfd8"
+comment_suggestion = "#c4a7e7"
+comment_issue = "#eb6f92"
+comment_praise = "#3e8fb0"
+
+border_focused = "#ea9a97"
+border_unfocused = "#56526e"
+status_bar_bg = "#2a273f"
+cursor_color = "#f6c177"
+cursor_line_bg = "#2a283e"
+branch_name = "#c4a7e7"
+help_indicator = "#908caa"
+
+message_info_fg = "#232136"
+message_info_bg = "#9ccfd8"
+message_warning_fg = "#232136"
+message_warning_bg = "#f6c177"
+message_error_fg = "#232136"
+message_error_bg = "#eb6f92"
+update_badge_fg = "#232136"
+update_badge_bg = "#f6c177"
+
+mode_fg = "#232136"
+mode_bg = "#ea9a97"
