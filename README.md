@@ -48,25 +48,52 @@ theme_light = "rose-pine-dawn"
 ## Gallery
 
 ### Rosé Pine
+
+#### Local
 <p align="center">
     <a href="https://github.com/rose-pine/rose-pine-theme">
       <img src="https://raw.githubusercontent.com/bosacky/rose-pine-tuicr/refs/heads/main/assets/tuicr_local.webp"/>
   </a>
 </p>
+
+#### Pull Requests
 <p align="center">
     <a href="https://github.com/rose-pine/rose-pine-theme">
       <img src="https://raw.githubusercontent.com/bosacky/rose-pine-tuicr/refs/heads/main/assets/tuicr_prs.webp"/>
   </a>
 </p>
+
+##### Code Review
 <p align="center">
     <a href="https://github.com/rose-pine/rose-pine-theme">
       <img src="https://raw.githubusercontent.com/bosacky/rose-pine-tuicr/refs/heads/main/assets/tuicr_cr.webp"/>
   </a>
 </p>
 
-### Rosé Pine Moon
 
 ### Rosé Pine Dawn
+
+#### Local
+<p align="center">
+    <a href="https://github.com/rose-pine/rose-pine-theme">
+      <img src="https://raw.githubusercontent.com/bosacky/rose-pine-tuicr/refs/heads/main/assets/tuicr_local_dawn.webp"/>
+  </a>
+</p>
+
+#### Pull Requests
+<p align="center">
+    <a href="https://github.com/rose-pine/rose-pine-theme">
+      <img src="https://raw.githubusercontent.com/bosacky/rose-pine-tuicr/refs/heads/main/assets/tuicr_prs_dawn.webp"/>
+  </a>
+</p>
+
+##### Code Review
+<p align="center">
+    <a href="https://github.com/rose-pine/rose-pine-theme">
+      <img src="https://raw.githubusercontent.com/bosacky/rose-pine-tuicr/refs/heads/main/assets/tuicr_cr_dawn.webp"/>
+  </a>
+</p>
+
 
 ## Thanks to
 
